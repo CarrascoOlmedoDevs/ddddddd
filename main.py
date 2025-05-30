@@ -50,7 +50,7 @@ def main():
     # Configuración de la ventana
     WIDTH, HEIGHT = 800, 600
     SCREEN = pygame.display.set_mode((WIDTH, HEIGHT))
-    pygame.display.set_caption("Título del Juego de Golf") # Set the requested caption
+    pygame.display.set_caption('Nombre del Juego de Golf') # Set the requested caption
 
     # Colores (Defined but not necessarily used in this basic structure)
     WHITE = (255, 255, 255)
